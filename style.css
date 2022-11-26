@@ -1,0 +1,44 @@
+*{
+  background-color: black;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+#heading{
+  color: white;
+  font-family: Arial, Sana-serif;
+  font-weight: 100;
+}
+
+#counterText{
+  color: white;
+}
+
+#decrement{
+  background-color: white;
+  color: black;
+  height: 35px;
+  width: 110px;
+}
+
+#increment{
+  background-color: white;
+  color: black;
+  height: 35px;
+  width: 110px;
+}
+
+#clear{
+  border-color: white;
+  color: white;
+  height: 33px;
+  width: 110px;
+}
+
+p{
+  color: white;
+  font-family: Arial, Sana-serif;
+  padding-bottom: 9px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  width:fit-content;
+}
